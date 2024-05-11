@@ -50,6 +50,10 @@
 
 💻 - Startup Running: Starts up whenever the target's machine does
 
+💻 - CLipper
+
+📁 - Keylogger
+
 💰 - Crypto Wallet Stealer (- 💸 Zcash 🚀 Armory 📀 Bytecoin 💵 Jaxx 💎 Exodus 📉 Ethereum 🔨 Electrum 🕹️ AtomicWallet 💹 Guarda ⚡ Coinomi 🦊 MetaMask )
 
 👥 - Private Information Stealer: Grabs Discord token, password, phone number, email, username and global username and HQ friends, HQ Guilds, user connexion and change user about me
